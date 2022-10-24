@@ -1,5 +1,5 @@
 function oinf = goi_oinfo(X,biascorrect)
-% Compute the O-information for the array X
+% Compute the O-information for the matrix X (nobs x nvartot)
 % 
 if nargin < 2; biascorrect = 'true'; end
 
