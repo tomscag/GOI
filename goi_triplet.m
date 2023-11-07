@@ -1,4 +1,4 @@
-% DEPRECATED (use goi_oinfo)%
+% DEPRECATED (use goi_gradients)%
 
 function out = goi_triplet(ts)
 
